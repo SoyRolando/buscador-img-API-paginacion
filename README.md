@@ -1,0 +1,1 @@
+# buscador-img-API-paginacion
